@@ -3,7 +3,7 @@
 ### :woman_technologist: About Me
 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Software Develoment Engineer</strong> at [TIBCO Software](https://www.tibco.com/) from last **1 year and 5 months**.
+- 💼 I’m currently working as a <strong>Associate Software Engineer</strong> at [Encora](https://www.encora.com/).
 - 📋 I've previously worked as a Frontend Developer Internship at [Suven Technology]()
 - 🎒 I've done internship in frontend primarily.
 - 🧭 I love exploring and working both in frontend and backend.
